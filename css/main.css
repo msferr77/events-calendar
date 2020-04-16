@@ -1,0 +1,27 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+table, th, tr {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+}
+
+search:
+  - 'background-color'
+  - 'border'
+  - 'color'
+  - 'border-radius'
+  - '#ccc'
+  - '#f2f2f2'
+  - '#666'
+  - '#333'
+  - '#d1e0bf'
+  - '#6b7e54'
+  - '#51603f'
+  - '#d2d6f0'
+  - '#1d38da'
+  - '#38448e'
+  - '#f2bcbc'
+  - '#b92828'
+  - '#991919'
